@@ -1,3 +1,3 @@
 # Image_Steganography
 
-Implementing Image Steganography using Python.
+Implementing PNG Image Steganography using Python.
